@@ -1,0 +1,2 @@
+App-Regles est une application full-stack qui stocke modifie et affiche des règles composées d’attributs au format clé / valeur.
+Composée d'une partie front à base d'Angular et back à base de spring boot basée sur une architecture FullStack découplée en REST.
